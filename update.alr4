@@ -1,0 +1,6 @@
+~geyer/local/current/bin/R CMD build --force --resave-data pkg 
+~geyer/local/current/bin/R CMD INSTALL -l ~/R/mylib alr4_1.0.4.tar.gz
+pushd ~/R/mylib
+zip -r alr4.zip alr4
+mv alr4.zip ~/working/alr4/alr4-pkg/alr4.zip
+popd
