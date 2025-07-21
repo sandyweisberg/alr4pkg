@@ -1,0 +1,5 @@
+R CMD build --force --resave-data pkg 
+pushd pkg.Rcheck
+zip -r alr4.zip alr4
+mv alr4.zip ../alr4.zip
+popd
