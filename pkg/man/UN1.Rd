@@ -13,22 +13,14 @@ geographic area is smaller than a country; for example Hong Kong.  The file
 contains the following columns:
   \describe{
     \item{Fertility}{Expected number of live births per female, 2000}
-<<<<<<< HEAD
     \item{PPgdp}{Per capita 2001 GDP, in US dollars}
-=======
-    \item{PPgdp}{Per capita 2001 GDP, in US \$}
->>>>>>> 4d1499ef27c6aa7a1d198fa46d47d7e3ab700783
   }
 }
 \details{
  These data were collected at published by the UN from a variety of sources.
  See original source for additional footnotes concerning values for
  individual countries.  Country names are given in the first column of the
-<<<<<<< HEAD
  data file.
-=======
- data file. 
->>>>>>> 4d1499ef27c6aa7a1d198fa46d47d7e3ab700783
 }
 \source{
  \url{http://unstats.un.org/unsd/demographic}

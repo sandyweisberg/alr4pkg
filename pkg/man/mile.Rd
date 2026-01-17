@@ -17,14 +17,9 @@
   }
 }
 \source{
-<<<<<<< HEAD
 The original source is no longer available online.
-=======
-Data source: \url{
-http://www.saunalahti.fi/~sut/eng/
 }
->>>>>>> 4d1499ef27c6aa7a1d198fa46d47d7e3ab700783
-}
+
 \references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
 \examples{

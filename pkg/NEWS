@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Changes to version 1.0.7
 
     o UpdatedDESCRIPTION to match new standards
@@ -10,10 +9,4 @@ Changes to version 1.0.6
     o Non=exported printing functions have been removed.  the "S" function in cr version 3.0.0 is equivalent.
 
     o changes in data file structure for compatiblity with Rcmdr
-=======
-Changes to version 1.0.6
 
-    o Non=exported printing functions have been removed.  the "S" function in cr version 3.0.0 is equivalent.
-    
-    o changes in data file structure for compatiblity with Rcmdr
->>>>>>> 4d1499ef27c6aa7a1d198fa46d47d7e3ab700783
