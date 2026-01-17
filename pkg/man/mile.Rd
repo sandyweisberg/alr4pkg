@@ -17,9 +17,7 @@
   }
 }
 \source{
-Data source: \url{
-http://www.saunalahti.fi/~sut/eng/
-}
+The original source is no longer available online.
 }
 \references{Weisberg, S. (2014). \emph{Applied Linear Regression}, 4th
 edition. Hoboken NJ: Wiley.}
